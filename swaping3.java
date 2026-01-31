@@ -6,6 +6,7 @@ public class swaping3 {
         System.out.println("Before swapping a = "+a + ", b = "+b);
 
         // logic
+        //note : a & b should not be zero
         a = a*b;
         b = a/b;
         a = a/b;

@@ -3,6 +3,7 @@ public class swapping4 {
         int a = 10;
         int b = 20;
 
+        
         System.out.println("Before swapping a = "+a+", b = "+b);
 
         a = a ^ b;
